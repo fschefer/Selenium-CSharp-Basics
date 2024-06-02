@@ -3,3 +3,5 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.idea
+Selenium_Basics.sln.DotSettings.user

@@ -10,16 +10,19 @@
     <ItemGroup>
       <Compile Remove="ClassLibraryTest\**" />
       <Compile Remove="ClassLibrary1\**" />
+      <Compile Remove="Variables\**" />
     </ItemGroup>
 
     <ItemGroup>
       <EmbeddedResource Remove="ClassLibraryTest\**" />
       <EmbeddedResource Remove="ClassLibrary1\**" />
+      <EmbeddedResource Remove="Variables\**" />
     </ItemGroup>
 
     <ItemGroup>
       <None Remove="ClassLibraryTest\**" />
       <None Remove="ClassLibrary1\**" />
+      <None Remove="Variables\**" />
     </ItemGroup>
 
 </Project>
