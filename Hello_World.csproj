@@ -7,4 +7,19 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="ClassLibraryTest\**" />
+      <Compile Remove="ClassLibrary1\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="ClassLibraryTest\**" />
+      <EmbeddedResource Remove="ClassLibrary1\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="ClassLibraryTest\**" />
+      <None Remove="ClassLibrary1\**" />
+    </ItemGroup>
+
 </Project>
