@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBasics", "UnitTestBasics\UnitTestBasics.csproj", "{394D0058-E16A-4723-AC69-C059242CE84F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTesting", "MathTesting\MathTesting.csproj", "{C1C7DC34-582A-4735-BBD4-34406C1F5A70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{394D0058-E16A-4723-AC69-C059242CE84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{394D0058-E16A-4723-AC69-C059242CE84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{394D0058-E16A-4723-AC69-C059242CE84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

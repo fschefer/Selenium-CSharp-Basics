@@ -4,6 +4,8 @@
     &lt;Project Location="/home/fschefer/RiderProjects/Selenium_Basics/ClassLibraryTest" Presentation="&amp;lt;ClassLibraryTest&amp;gt;" /&gt;
     &lt;TestAncestor&gt;
       &lt;TestId&gt;MSTest::394D0058-E16A-4723-AC69-C059242CE84F::net8.0::UnitTestBasics.UnitTest1&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::C1C7DC34-582A-4735-BBD4-34406C1F5A70::net8.0::MathTesting.UnitTest1.addingNumbers&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::C1C7DC34-582A-4735-BBD4-34406C1F5A70::net8.0::MathTesting.UnitTest1&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
