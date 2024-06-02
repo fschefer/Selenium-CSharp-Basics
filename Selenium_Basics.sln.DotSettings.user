@@ -6,6 +6,8 @@
       &lt;TestId&gt;MSTest::394D0058-E16A-4723-AC69-C059242CE84F::net8.0::UnitTestBasics.UnitTest1&lt;/TestId&gt;
       &lt;TestId&gt;MSTest::C1C7DC34-582A-4735-BBD4-34406C1F5A70::net8.0::MathTesting.UnitTest1.addingNumbers&lt;/TestId&gt;
       &lt;TestId&gt;MSTest::C1C7DC34-582A-4735-BBD4-34406C1F5A70::net8.0::MathTesting.UnitTest1&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::DF67B697-348A-4D9E-82CE-0A94FFDB4361::net8.0::Conditions.UnitTest1&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::EFE30835-A657-4959-A0A0-198DFCB4F686::net8.0::ElseIfs.UnitTest1&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

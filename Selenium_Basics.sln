@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBasics", "UnitTestB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTesting", "MathTesting\MathTesting.csproj", "{C1C7DC34-582A-4735-BBD4-34406C1F5A70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifs", "Ifs\Ifs.csproj", "{DF67B697-348A-4D9E-82CE-0A94FFDB4361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElseIfs", "ElseIfs\ElseIfs.csproj", "{EFE30835-A657-4959-A0A0-198DFCB4F686}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C7DC34-582A-4735-BBD4-34406C1F5A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF67B697-348A-4D9E-82CE-0A94FFDB4361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF67B697-348A-4D9E-82CE-0A94FFDB4361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF67B697-348A-4D9E-82CE-0A94FFDB4361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF67B697-348A-4D9E-82CE-0A94FFDB4361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

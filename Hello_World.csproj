@@ -12,6 +12,12 @@
       <Compile Remove="ClassLibrary1\**" />
       <Compile Remove="Variables\**" />
       <Compile Remove="UnitTestBasics\**" />
+      <Compile Update="Ifs\UnitTest1.cs">
+        <Link>Conditions\UnitTest1.cs</Link>
+      </Compile>
+      <Compile Update="Ifs\GlobalUsings.cs">
+        <Link>Conditions\GlobalUsings.cs</Link>
+      </Compile>
     </ItemGroup>
 
     <ItemGroup>
