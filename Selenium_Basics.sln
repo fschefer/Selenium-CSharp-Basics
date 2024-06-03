@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifs", "Ifs\Ifs.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElseIfs", "ElseIfs\ElseIfs.csproj", "{EFE30835-A657-4959-A0A0-198DFCB4F686}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPClasses", "OOPClasses\OOPClasses.csproj", "{99B54B3F-1E1E-4E83-95A1-AC341FF019AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClassTest", "CarClassTest\CarClassTest.csproj", "{D8F87EE4-E7FA-43D2-964C-E818BE356060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE30835-A657-4959-A0A0-198DFCB4F686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B54B3F-1E1E-4E83-95A1-AC341FF019AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B54B3F-1E1E-4E83-95A1-AC341FF019AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B54B3F-1E1E-4E83-95A1-AC341FF019AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B54B3F-1E1E-4E83-95A1-AC341FF019AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F87EE4-E7FA-43D2-964C-E818BE356060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F87EE4-E7FA-43D2-964C-E818BE356060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F87EE4-E7FA-43D2-964C-E818BE356060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F87EE4-E7FA-43D2-964C-E818BE356060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

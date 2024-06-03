@@ -9,5 +9,6 @@
       &lt;TestId&gt;MSTest::DF67B697-348A-4D9E-82CE-0A94FFDB4361::net8.0::Conditions.UnitTest1&lt;/TestId&gt;
       &lt;TestId&gt;MSTest::EFE30835-A657-4959-A0A0-198DFCB4F686::net8.0::ElseIfs.UnitTest1&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
+    &lt;Project Location="/home/fschefer/RiderProjects/Selenium_Basics/CarClassTest" Presentation="&amp;lt;CarClassTest&amp;gt;" /&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
